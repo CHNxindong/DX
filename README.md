@@ -1,1 +1,2 @@
-# DX
+# Individual
+Aproject about myself.
